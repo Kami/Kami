@@ -19,3 +19,8 @@ projects, ham radio, flying planes, gym and more.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Kami&show_icons=true&theme=synthwave)](https://github.com/Kami)
 
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami&hide=php&langs_count=8&layout=compact)](https://github.com/Kami)
+
+---
+
+P.S. My original Github.com join date was 09.09.(20)09. Before that most of my projects and
+contributions were hosted on sourceforge and various mailing lists.
