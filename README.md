@@ -16,6 +16,10 @@ projects, ham radio, flying planes, gym and more.
 
 ---
 
+![dogs](https://user-images.githubusercontent.com/125088/103179909-d15dad80-4890-11eb-939a-17bf0a26cc74.png)
+
+---
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Kami&show_icons=true&theme=synthwave)](https://github.com/Kami)
 
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami&hide=php&langs_count=8&layout=compact)](https://github.com/Kami)
