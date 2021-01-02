@@ -20,6 +20,19 @@ projects, ham radio, flying planes, gym and more.
 
 ---
 
+Here is a list of some of the projects I'm sponsoring either here on Github, Patreon or elsewhere.
+
+- [OctoPrint](https://github.com/OctoPrint/OctoPrint)
+- [Pi-hole](https://www.patreon.com/pihole/posts)
+- [PhotoPrism](https://github.com/photoprism/photoprism)
+- [StackStorm](https://funding.communitybridge.org/projects/stackstorm)
+- [Apache Software Foundation](https://www.apache.org/foundation/contributing.html)
+
+Open source and free software matters. If you can afford it, you should also consider sponsoring
+some of many free, volunteer based open source projects out there.
+
+---
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Kami&show_icons=true&theme=synthwave)](https://github.com/Kami)
 
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kami&hide=php&langs_count=8&layout=compact)](https://github.com/Kami)
