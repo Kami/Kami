@@ -21,6 +21,7 @@ Here is a list of some of the projects I'm sponsoring either here on Github, Pat
 
 - [OctoPrint](https://github.com/OctoPrint/OctoPrint)
 - [Pi-hole](https://www.patreon.com/pihole/posts)
+- [Quad9 DNS](https://www.quad9.net/)
 - [PhotoPrism](https://github.com/photoprism/photoprism)
 - [StackStorm](https://funding.communitybridge.org/projects/stackstorm)
 - [Apache Software Foundation](https://www.apache.org/foundation/contributing.html)
