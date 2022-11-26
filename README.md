@@ -24,10 +24,11 @@ Here is a list of some of the projects I'm sponsoring either here on Github, Pat
 - [Quad9 DNS](https://www.quad9.net/)
 - [PhotoPrism](https://github.com/photoprism/photoprism)
 - [StackStorm](https://funding.communitybridge.org/projects/stackstorm)
+- [Mastodon](https://joinmastodon.org/sponsors)
 - [Apache Software Foundation](https://www.apache.org/foundation/contributing.html)
 
 Open source and free software matters. If you can afford it, you should also consider sponsoring
-some of many free, volunteer based open source projects out there.
+some of the many free, volunteer based open source projects out there.
 
 ---
 
